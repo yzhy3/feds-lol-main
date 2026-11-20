@@ -67,7 +67,7 @@
     "mailersend": "^2.3.0",
     "music-metadata": "^11.0.2",
     "mysql2": "^3.11.3",
-    "next": "15.1.6",
+    "next": "15.1.11",
     "next-turnstile": "^1.0.5",
     "nextjs-toploader": "^1.4.2",
     "ofetch": "^1.4.1",
